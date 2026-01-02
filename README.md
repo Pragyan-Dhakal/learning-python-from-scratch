@@ -1,4 +1,4 @@
-#📌 Topics Covered
+# 📌 Topics Covered
 - Variables & Data Types
 - Conditions & Loops
 - Functions
